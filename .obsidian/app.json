@@ -1,0 +1,36 @@
+{
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "attachmentFolderPath": "Attachment",
+  "showInlineTitle": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "propertiesInDocument": "hidden",
+  "useMarkdownLinks": false,
+  "userIgnoreFilters": [
+    "Attachment/",
+    "Templates/",
+    "Boring-Templates/",
+    "Daily-Notes/",
+    "Canvases/"
+  ],
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "vimMode": true,
+  "showIndentGuide": true,
+  "focusNewTab": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "newFileLocation": "root"
+}

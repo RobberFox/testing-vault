@@ -1,0 +1,200 @@
+{
+  "rules": [
+    {
+      "tokenMatcher": "hmd-internal-link",
+      "lookups": [
+        "]]"
+      ],
+      "jumpAfter": true
+    },
+    {
+      "tokenMatcher": "strong",
+      "lookups": [
+        "**"
+      ],
+      "jumpAfter": true
+    },
+    {
+      "tokenMatcher": "em",
+      "lookups": [
+        "*"
+      ],
+      "jumpAfter": true
+    },
+    {
+      "tokenMatcher": "code",
+      "lookups": [
+        "`"
+      ],
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        ")",
+        "*",
+        "**"
+      ],
+      "tokenMatcher": "header_header-5",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        ")",
+        "*",
+        "**"
+      ],
+      "tokenMatcher": "header_header-4",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "*",
+        "**",
+        ")"
+      ],
+      "tokenMatcher": "header_header-3",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "*",
+        "**",
+        ")"
+      ],
+      "tokenMatcher": "header_header-2",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "*",
+        "**",
+        ")"
+      ],
+      "tokenMatcher": "header_header-1",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "*",
+        "**",
+        ")"
+      ],
+      "tokenMatcher": "header_header-6",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "*",
+        "**",
+        ")",
+        "\""
+      ],
+      "tokenMatcher": "quote_quote-1",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "*",
+        "**",
+        ")",
+        "\""
+      ],
+      "tokenMatcher": "formatting_formatting-math_formatting-math-end_keyword_math_math-",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "</span>"
+      ],
+      "tokenMatcher": "Document",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        ")",
+        "*",
+        "**",
+        "\""
+      ],
+      "tokenMatcher": "Document",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "</span>"
+      ],
+      "tokenMatcher": "HyperMD-quote_HyperMD-quote-1",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "]]"
+      ],
+      "tokenMatcher": "hmd-internal-link_link-alias_quote_quote-1",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "]]"
+      ],
+      "tokenMatcher": "hmd-internal-link_link-alias",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "</span>"
+      ],
+      "tokenMatcher": "HyperMD-list-line_HyperMD-list-line-1",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "</u>"
+      ],
+      "tokenMatcher": "HyperMD-list-line_HyperMD-list-line-1",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "*"
+      ],
+      "tokenMatcher": "formatting_formatting-strong_quote_quote-2_strong",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "</u>"
+      ],
+      "tokenMatcher": "Document",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "</u>"
+      ],
+      "tokenMatcher": "HyperMD-quote_HyperMD-quote-1_HyperMD-quote-lazy",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "</u>"
+      ],
+      "tokenMatcher": "HyperMD-quote_HyperMD-quote-1",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "</span>"
+      ],
+      "tokenMatcher": "HyperMD-quote_HyperMD-quote-2",
+      "jumpAfter": true
+    },
+    {
+      "lookups": [
+        "</u>"
+      ],
+      "tokenMatcher": "HyperMD-quote_HyperMD-quote-2",
+      "jumpAfter": true
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "wrapperTags": [
+    {
+      "id": "w1693580927338",
+      "name": "Blue",
+      "startTag": "{\\color{rblue}",
+      "endTag": "}"
+    },
+    {
+      "id": "w1693470489745",
+      "name": "Brackets",
+      "startTag": "(",
+      "endTag": ")"
+    },
+    {
+      "id": "w1694178176595",
+      "name": "Counting",
+      "startTag": "<span class=\"ex\">",
+      "endTag": "</span>"
+    },
+    {
+      "id": "w1693580941205",
+      "name": "Cyan",
+      "startTag": "{\\color{rcyan}",
+      "endTag": "}"
+    },
+    {
+      "id": "w1693671860921",
+      "name": "Division",
+      "startTag": "\\;\\vdots\\;",
+      "endTag": ""
+    },
+    {
+      "id": "w1693320591466",
+      "name": "Example",
+      "startTag": "<span class=\"ex\">ex:",
+      "endTag": "</span>"
+    },
+    {
+      "id": "w1693580960691",
+      "name": "Lime",
+      "startTag": "{\\color{rlime}",
+      "endTag": "}"
+    },
+    {
+      "id": "w1693580881502",
+      "name": "Magenta",
+      "startTag": "{\\color{rmage}",
+      "endTag": "}"
+    },
+    {
+      "id": "w1693580989705",
+      "name": "Orange",
+      "startTag": "{\\color{rorng}",
+      "endTag": "}"
+    },
+    {
+      "id": "w1693319447780",
+      "name": "Parenthesis",
+      "startTag": "*(",
+      "endTag": ")*"
+    },
+    {
+      "id": "w1693580976786",
+      "name": "Puke",
+      "startTag": "{\\color{rpuke}",
+      "endTag": "}"
+    },
+    {
+      "id": "w1694011120259",
+      "name": "Red",
+      "startTag": "{\\color{rred}",
+      "endTag": "}"
+    },
+    {
+      "id": "underline",
+      "name": "Underline",
+      "startTag": "<u>",
+      "endTag": "</u>"
+    },
+    {
+      "id": "w1693580908894",
+      "name": "Violet",
+      "startTag": "{\\color{rviol}",
+      "endTag": "}"
+    }
+  ]
+}

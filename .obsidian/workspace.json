@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "6e9471400ee73caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "675668b935aaadb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "297948eec255e117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Предел числовой последовательности.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "4083eb8516c9891a"
+          }
+        ]
+      },
+      {
+        "id": "dbce9fc37187ceb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1857f6f8145d119e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Предел числовой последовательности.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "4083eb8516c9891a"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f56f621f8dc920fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "71eaf95d2fef1b6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "429be35391c836b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "bc32c2379909159a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "частн",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "026eeb9c5f203c2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ab7346704a8c17ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0d05eaadb3832ec",
+        "type": "tabs",
+        "dimension": 34.87270574304322,
+        "children": [
+          {
+            "id": "45e6b4eca820bbcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Предел числовой последовательности.md"
+              }
+            }
+          },
+          {
+            "id": "8e56252dc6cd2e42",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Предел числовой последовательности.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.5,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.36288736930121257,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "e35d414562d1447a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Предел числовой последовательности.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f141485fa57f6e5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b32cd5f2466b660f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f009e862ce21909",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8cc433a63ebdd14b",
+        "type": "tabs",
+        "dimension": 65.12729425695679,
+        "children": [
+          {
+            "id": "49633a3130eadf84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Предел числовой последовательности.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "297948eec255e117",
+  "lastOpenFiles": [
+    "БЖД-ЧС Защита-Лекция 6.md",
+    "Предел числовой последовательности.md",
+    "Attachment/Pasted image 20230914120825.png",
+    "Ранг матрицы.md",
+    "Высшая алгебра.md",
+    "Теория определителей.md",
+    "Формулы определителей.md",
+    "Минор-Алгебраическое дополнение.md",
+    "Трансформация над графиками-Сдвиг-Сжатие-Разжатие.md",
+    "NDG Linux Essentials.md",
+    "Tips-Typing.md",
+    "4NDG-Open source-Licensing.md",
+    "5NDG-Command line.md",
+    "3NDG-Kernel-Software-Security.md",
+    "Kernel.md",
+    "Terminal.md",
+    "2NDG OS-Operating Systems.md",
+    "Linux OS-Distrubutions.md",
+    "Linux distros.md",
+    "1NDG Linux history-GUI-CLI.md",
+    "0NDG Beginning.md",
+    "Closer source vs Open source.md",
+    "Typing speed.md",
+    "Typing progress.md",
+    "3Sessions.md",
+    "Klava org.md",
+    "1Sessions.md",
+    "Attachment/Pasted image 20231027213053.png",
+    "Attachment/Pasted image 20231027212341.png",
+    "Attachment/Pasted image 20231026163057.png",
+    "Attachment/Pasted image 20231026193238.png",
+    "Attachment/Pasted image 20231026192612.png",
+    "Attachment/Pasted image 20231026192545.png",
+    "Attachment/Pasted image 20231026192230.png",
+    "Attachment/Pasted image 20231026191846.png",
+    "Attachment/Pasted image 20231026181050.png",
+    "Canvases/Untitled 2.canvas",
+    "Attachment/data image_jpeg;base64,_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAoHCBMSEhcUFREXGBcZGBkXGRgXGhoaGhgZIBgeGRkZFxgaISwjHR4pHhkZJTgkKS4vMzMzHCI4PjgzPSwyMy8BCwsLDw4PHhISHjIpIikyOjIyMjIyNDIyMjIyLy8yMjIyMjIzMjIyMjIyMjUyMjIyMjIyMjIyMjIyMjIyMjIyMv_AABEIALsBDQMBIgACEQE.url",
+    "Canvases/Untitled 1.canvas",
+    "Canvases/Untitled.canvas",
+    "Canvases/Метод Гаусса.canvas",
+    "Canvases",
+    "Синус/Косинус-Тангенс",
+    "Синус",
+    "Boring-Templates",
+    "New Text Document.txt",
+    "Daily-Notes",
+    "Templates/Daily-Notes",
+    "Attachment/Pasted image 20230911155840.png.crdownload",
+    "Attachment/Pasted image 20230911152542.png.crdownload",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

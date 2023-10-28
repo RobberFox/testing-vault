@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "quotes",
+    "latex",
+    "headings",
+    "center images",
+    "callouts",
+    "columnt",
+    "columns"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Inter",
+  "theme": "obsidian"
+}
